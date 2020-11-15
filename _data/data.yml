@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: 홍창호s
+    name: 홍창호
     tagline: SW DEVELOPER
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -62,7 +62,7 @@ education: #/ certificate
       time: 2019 - 2021 (졸업예정)
 #certificate:
     - degree: ------------------------
-    - degree: CJP-Oracle / 2017.05
+    - degree: OCJP-Oracle / 2017.05
     - degree: 정보처리기사 / 2020.11
     - degree: 1종보통운전면허 / 2015.02
     - degree: ------------------------
@@ -74,7 +74,9 @@ experiences:
       details: |
         기존 운영되던 텍스프리 환급 서버를 기획, 설계, 개발, 운영을 진행하였다.
           - JAVA
-          - Bullet point
+          - MyBatis
+          - Linux
+          
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
