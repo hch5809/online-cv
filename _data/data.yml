@@ -33,18 +33,11 @@ career-profile:
     title: 커리어
     summary: |
       2018 ~ 현재 글로벌텍스프리(GTF) 재직중
-      
-       사용 언어: JAVA
+
        - 텍스프리 환급(POS, 단말기) 서버 개발 및 운영
        - 배치 프로그램 및 서버 프로그램 개발 및 운영
-       
-       사용 언어: JAVA SWING, JAVA FX, C#
        - 텍스프리 환급 CLIENT 개발 및 운영
-       
-       사용 언어: WIN32
        - 서버 통신 DLL 개발 및 배포
-       
-       사용 언어: ORACLE SQL
        - 업무상 필요한 데이터 추출 및 프로시저 생성 및 운영
        
 education: #/ certificate
@@ -66,8 +59,6 @@ experiences:
       time: 2017.06.01 - 2018.11.01
       company: 동양미래대 졸업작품
       assignments:
-      - title: git
-      link: "https://github.com/OriginalNetworkExperts"
       details: |
         IOT와 NFC를 통한 서버 연동 프로그램 기획, 설계를 맡아 진행하였으며
         라즈베리파이와 아두이노를 서버와 연동 시키고 서버에서 작동하도록 개발 진행.
@@ -112,6 +103,16 @@ experiences:
           - JAVA FX
           - MyBatis
           - SPRING
+          
+    - role: 텍스프리 환급 프로그램 및 서버 운영
+      time: 2018.03.01 - 현재
+      company: 글로벌텍스프리(GTF)
+      details: |
+        C#으로 운영 중인 텍스프리 환급 프로그램 리뉴얼 개발 및 운영 중이며
+        SPRING으로 개발되어있는 서버도 운영 중이다.
+          - C#
+          - SPRING
+          - LINUX
 projects:
     title: Projects
     intro: >
