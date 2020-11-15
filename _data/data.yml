@@ -56,12 +56,12 @@ education: #/ certificate
     - degree: 컴퓨터 공학과
       university: 한국방송통신대학교
       time: 2019 - 2021 (졸업예정)
-certificate:
-    - degree: ------------------------
+#certificate:
+    - degree: ------------자격증------------
     - degree: OCJP-Oracle / 2017.05
     - degree: 정보처리기사 / 2020.11
     - degree: 1종보통운전면허 / 2015.02
-    - degree: ------------------------
+    - degree: -------------------------------
 
 experiences:
     - role: 스마트 체크 리스트와 방범 IoT를 NFC로 결합한 편의정보 제공 및 IoT 제어 시스템
