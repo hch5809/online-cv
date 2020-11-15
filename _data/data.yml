@@ -53,7 +53,7 @@ career-profile:
        사용 언어: ORACLE SQL
        - 업무상 필요한 데이터 추출 및 프로시저 생성 및 운영
        
-education / certificate: #/ CERTIFIED
+education: #/ certificate
     - degree: 컴퓨터 공학과
       university: 동양미래대학교
       time: 2014 - 2018 (졸업)
@@ -71,7 +71,7 @@ experiences:
       time: 2019.07.01 - 2019.12.01
       company: 글로벌텍스프리(GTF)
       details: |
-        기존 운영되던 텍스프리 발급 서버 리뉴얼 진행.
+        기존 운영되던 텍스프리 환급 서버를 
         
           - Bullet point
           - Bullet point
