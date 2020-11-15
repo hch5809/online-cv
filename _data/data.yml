@@ -65,6 +65,8 @@ experiences:
     - role: 스마트 체크 리스트와 방범 IoT를 NFC로 결합한 편의정보 제공 및 IoT 제어 시스템
       time: 2017.06.01 - 2018.11.01
       company: 동양미래대 졸업작품
+      assignments:
+      - title: git
       link: "https://github.com/OriginalNetworkExperts"
       details: |
         IOT와 NFC를 통한 서버 연동 프로그램 기획, 설계를 맡아 진행하였으며
@@ -79,7 +81,7 @@ experiences:
       time: 2019.07.01 - 2019.10.01
       company: 글로벌텍스프리(GTF)
       details: |
-        기존 운영되던 텍스프리 환급 POS 서버를 기획, 설계, 개발, 운영을 진행하였다.
+        POS(CLIENT)와 연동하여 텍스프리를 발행하는 서버를 기획, 설계, 개발, 운영을 진행하였다.
           - JAVA
           - MyBatis
           - Linux
@@ -88,7 +90,7 @@ experiences:
       time: 2019.10.01 - 2020.01.01
       company: 글로벌텍스프리(GTF)
       details: |
-        기존 운영되던 텍스프리 환급 단말기 서버를 기획, 설계, 개발, 운영을 진행하였다.
+        단말기(CLIENT)와 연동하여 텍스프리를 발행하는 서버를 기획, 설계, 개발, 운영을 진행하였다.
           - JAVA
           - MyBatis
           - Linux
