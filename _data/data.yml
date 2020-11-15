@@ -68,29 +68,37 @@ education: #/ certificate
     - degree: ------------------------
 
 experiences:
+    - role: 스마트 체크 리스트와 방범 IoT를 NFC로 결합한 편의정보 제공 및 IoT 제어 시스템
+      time: 2019.07.01 - 2019.10.01
+      company: 동양미래대 졸업작품
+      details: |
+        IOT와 NFC를 통한 서버 연동 프로그램 기획, 설계를 맡아 진행하였으며
+        라즈베리파이와 아두이노를 서버와 연동 시키고 서버에서 작동하도록 개발 진행.
+          - JAVA
+          - MyBatis
+          - AWS
+          
     - role: POS 텍스프리 서버 개발 진행 프로젝트
       time: 2019.07.01 - 2019.10.01
       company: 글로벌텍스프리(GTF)
       details: |
-        기존 운영되던 텍스프리 환급 서버를 기획, 설계, 개발, 운영을 진행하였다.
+        기존 운영되던 텍스프리 환급 POS 서버를 기획, 설계, 개발, 운영을 진행하였다.
           - JAVA
           - MyBatis
           - Linux
           
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: 단말기 텍스프리 서버 개발 진행 프로젝트
+      time: 2019.10.01 - 2020.01.01
+      company: 글로벌텍스프리(GTF)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        기존 운영되던 텍스프리 환급 단말기 서버를 기획, 설계, 개발, 운영을 진행하였다.
+          - JAVA
+          - MyBatis
+          - Linux
+          
+    - role: 텍스프리 환급 프로그램 개발 프로젝트
+      time: 2020.08.01 - 현재
+      company: 글로벌텍스프리(GTF)
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
