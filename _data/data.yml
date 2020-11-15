@@ -60,9 +60,9 @@ EDUCATION: #/ CERTIFIED
     - degree: 컴퓨터 공학과
       university: 한국방송통신대학교
       time: 2019 - 2021 (졸업예정)
-    - degree: CJP-Oracle / 2017.05
-    - degree: 정보처리기사 / 2020.11
-    - degree: 1종보통운전면허 / 2015.02
+   # - degree: CJP-Oracle / 2017.05
+   # - degree: 정보처리기사 / 2020.11
+   # - degree: 1종보통운전면허 / 2015.02
       
 
 experiences:
