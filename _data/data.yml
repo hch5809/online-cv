@@ -25,14 +25,10 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    취미:
+    interests:
       - item: 농구
         link:
-
       - item: 영화 감상
-        link:
-
-      - item: 독서
         link:
 
 career-profile:
