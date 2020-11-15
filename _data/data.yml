@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: 홍창호
+    name: 홍창호s
     tagline: SW DEVELOPER
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -61,19 +61,19 @@ education: #/ certificate
       university: 한국방송통신대학교
       time: 2019 - 2021 (졸업예정)
 #certificate:
- #   - degree: CJP-Oracle / 2017.05
-  #  - degree: 정보처리기사 / 2020.11
-   # - degree: 1종보통운전면허 / 2015.02
-      
+    - degree: ------------------------
+    - degree: CJP-Oracle / 2017.05
+    - degree: 정보처리기사 / 2020.11
+    - degree: 1종보통운전면허 / 2015.02
+    - degree: ------------------------
 
 experiences:
     - role: POS 텍스프리 서버 개발 진행 프로젝트
-      time: 2019.07.01 - 2019.12.01
+      time: 2019.07.01 - 2019.10.01
       company: 글로벌텍스프리(GTF)
       details: |
-        기존 운영되던 텍스프리 환급 서버를 
-        
-          - Bullet point
+        기존 운영되던 텍스프리 환급 서버를 기획, 설계, 개발, 운영을 진행하였다.
+          - JAVA
           - Bullet point
     - role: Senior Software Engineer
       time: 2014 - 2015
