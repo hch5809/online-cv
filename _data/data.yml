@@ -53,7 +53,7 @@ career-profile:
        사용 언어: ORACLE SQL
        - 업무상 필요한 데이터 추출 및 프로시저 생성 및 운영
        
-education:
+교육:
     - degree: 컴퓨터 공학과
       university: 동양미래대학교
       time: 2014 - 2018 졸업
@@ -63,8 +63,7 @@ education:
 ---------------------------------------
 자격증:
     - degree: OCJP-Oracle
-      university: OCJP-Oracle
-      time: 2017.05
+    - time: 2017.05
     - degree: 정보처리기사
       university: 한국방송통신대학교
       time: 2019 - 2021 졸업예정
