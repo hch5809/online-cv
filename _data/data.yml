@@ -60,6 +60,15 @@ education:
     - degree: 컴퓨터 공학과
       university: 한국방송통신대학교
       time: 2019 - 2021 졸업예정
+---------------------------------------
+자격증:
+    - degree: OCJP-Oracle
+      university: OCJP-Oracle
+      time: 2017.05
+    - degree: 정보처리기사
+      university: 한국방송통신대학교
+      time: 2019 - 2021 졸업예정
+      
     - degree: 자격증
       university: OCJP-Oracle
       time: 2017.05
