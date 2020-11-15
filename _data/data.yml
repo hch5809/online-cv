@@ -53,32 +53,25 @@ career-profile:
        사용 언어: ORACLE SQL
        - 업무상 필요한 데이터 추출 및 프로시저 생성 및 운영
        
-EDUCATION: #/ CERTIFIED
+education: #/ CERTIFIED
     - degree: 컴퓨터 공학과
       university: 동양미래대학교
       time: 2014 - 2018 (졸업)
     - degree: 컴퓨터 공학과
       university: 한국방송통신대학교
       time: 2019 - 2021 (졸업예정)
-   # - degree: CJP-Oracle / 2017.05
-   # - degree: 정보처리기사 / 2020.11
-   # - degree: 1종보통운전면허 / 2015.02
+    - degree: CJP-Oracle / 2017.05
+    - degree: 정보처리기사 / 2020.11
+    - degree: 1종보통운전면허 / 2015.02
       
 
 experiences:
     - role: POS 텍스프리 서버 개발 진행 프로젝트
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      time: 2019.07.01 - 2019.12.01
+      company: 글로벌텍스프리(GTF)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        기존 운영되던 텍스프리 발급 서버를 통합 및 리뉴얼 진행.
+        
           - Bullet point
           - Bullet point
     - role: Senior Software Engineer
