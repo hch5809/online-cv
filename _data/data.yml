@@ -53,7 +53,7 @@ career-profile:
        사용 언어: ORACLE SQL
        - 업무상 필요한 데이터 추출 및 프로시저 생성 및 운영
        
-EDUCATION / CERTIFIED:
+EDUCATION: #/ CERTIFIED
     - degree: 컴퓨터 공학과
       university: 동양미래대학교
       time: 2014 - 2018 (졸업)
