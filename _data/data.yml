@@ -39,13 +39,17 @@ career-profile:
     title: 커리어
     summary: |
       2018 ~ 현재 글로벌텍스프리(GTF) 재직중
+      
        사용 언어: JAVA
        - 텍스프리 환급(POS, 단말기) 서버 개발 및 운영
        - 배치 프로그램 및 서버 프로그램 개발 및 운영
+       
        사용 언어: JAVA SWING, JAVA FX, C#
        - 텍스프리 환급 CLIENT 개발 및 운영
+       
        사용 언어: WIN32
        - 서버 통신 DLL 개발 및 배포
+       
        사용 언어: ORACLE SQL
        - 업무상 필요한 데이터 추출 및 프로시저 생성 및 운영
        
