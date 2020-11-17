@@ -114,31 +114,14 @@ experiences:
           - SPRING
           - LINUX
 projects:
-    title: Projects
+    title: 개인 프로젝트
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      개인 프로젝트 및 소수의 인원들과 간단하게 진행한 개발 프로젝트 입니다.
     assignments:
-      - title: Velocity
+      - title: "ALL IN ONE"
         link: "https://github.com/OriginalNetworkExperts"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "스마트 체크 리스트와 방범 IoT를 NFC로 결합한 편의정보 제공 및 IoT 제어 시스템"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 #publications:
 #    title: Publications
