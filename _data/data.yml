@@ -32,7 +32,7 @@ sidebar:
 career-profile:
     title: CAREER
     summary: |
-      2018 ~ 현재 글로벌텍스프리(GTF) 재직중
+      2018.02 ~ 현재 글로벌텍스프리(GTF) 재직중
 
        - 텍스프리 환급(POS, 단말기) 서버 개발 및 운영
        - 배치 프로그램 및 서버 프로그램 개발 및 운영
@@ -68,7 +68,7 @@ experiences:
           - Raspberry Pi
           - Arduino
           
-    - role: POS 텍스프리 서버 개발 및 운영
+    - role: POS 텍스프리 서버 개발
       time: 2019.07.01 - 2019.10.01
       company: 글로벌텍스프리(GTF)
       details: |
@@ -77,7 +77,7 @@ experiences:
           - MyBatis
           - Linux
           
-    - role: 단말기 텍스프리 서버 개발 및 운영
+    - role: 단말기 텍스프리 서버 개발
       time: 2019.10.01 - 2020.01.01
       company: 글로벌텍스프리(GTF)
       details: |
@@ -86,7 +86,7 @@ experiences:
           - MyBatis
           - Linux
           
-    - role: 텍스프리 환급 프로그램 개발 및 운영
+    - role: 텍스프리 환급 프로그램 개발
       time: 2019.10.01 - 2020.01.01
       company: 글로벌텍스프리(GTF)
       details: |
@@ -95,7 +95,7 @@ experiences:
           - JDBC
           - LINUX
           
-    - role: 텍스프리 환급 프로그램 개발 프로젝트
+    - role: 텍스프리 환급 프로그램 개발
       time: 2020.08.01 - 현재
       company: 글로벌텍스프리(GTF)
       details: |
@@ -113,6 +113,8 @@ experiences:
           - C#
           - SPRING
           - LINUX
+          
+          
 projects:
     title: 개인 프로젝트
     intro: >
